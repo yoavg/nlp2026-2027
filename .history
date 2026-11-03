@@ -6,3 +6,9 @@ zsh.2025-11-02.15-44-10.MacBook-Pro-3.local ls
 zsh.2025-11-02.15-44-19.MacBook-Pro-3.local git init
 zsh.2025-11-02.15-44-45.MacBook-Pro-3.local git add -m "initial commit based on 2024-2025"
 zsh.2025-11-02.15-45-02.MacBook-Pro-3.local git commit -m "initial commit based on 2024-2025"
+zsh.2026-11-03.10-33-43.ymb.local cd nlp2026-2027
+zsh.2026-11-03.10-33-44.ymb.local ls
+zsh.2026-11-03.10-33-57.ymb.local git rm ass1 ass2 ass3 ass4
+zsh.2026-11-03.10-34-01.ymb.local git rm -r ass1 ass2 ass3 ass4
+zsh.2026-11-03.10-34-07.ymb.local git status
+zsh.2026-11-03.10-34-26.ymb.local nvim .gitignore
