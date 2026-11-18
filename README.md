@@ -2,7 +2,8 @@
 
 [Assignment 1 part A](ass1)
 
-<!-- [Assignment 2](ass2)
+[Assignment 2](ass2)
+<!--
 
 [Assignment 3](ass3)
 
