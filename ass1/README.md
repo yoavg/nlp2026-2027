@@ -443,9 +443,8 @@ For example, a pair of two students my have an `ids.txt` file that looks like th
 
 In addition to `ids.txt`, the files to be submitted are:
 
-```
-
 **Part A**:
+
 ```
 cfg.pdf
 generate.py  # including -n and -t switches
@@ -458,8 +457,8 @@ grammar4
 grammar4.gen
 ```
 
-
 **Part B**:
+
 ```
 unigrams.pdf
 ngrams.pdf
